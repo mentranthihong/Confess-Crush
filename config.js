@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Nhận quà Giáng sinh ",
+    introTitle: 'Mình là Mến Bri chăm chỉ nhất Ban TCKT đây',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Hãy chọn cho mình một phần quà đón Noel nàoooooo 🥰',
+    desc: ' ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Đồng chí có thích món quà này không',
+    btnReply: 'Yêuuuuu ká <3',
+    reply: 'Mình thích lắm nhé Mến ',
+    mess: 'Mình biết mà 🥰. Yêu đồng chí nhiều nhiều 😘😘',
+    messDesc: 'Đồng chí muốn nhận thêm món quà không :>>',
+    btnAccept: 'Tất nhiên rồi <3',
+    messLink: 'https://drive.google.com/drive/my-drive?fbclid=IwAR3iJ5Bz0YufnLa6XYb1scG2ZMiY2rr0k5TRe9dbv1HmZxZeoSK-eR0Dzvc' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
